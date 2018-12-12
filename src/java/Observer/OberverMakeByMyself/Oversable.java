@@ -1,4 +1,4 @@
-package Observer;
+package Observer.OberverMakeByMyself;
 
 public interface Oversable {
       public void regsiter(Observer observer) ;
